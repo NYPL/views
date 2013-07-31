@@ -6,7 +6,7 @@
  */
 
 // @todo: Remove this once update.php can use the registry
-views_include('base');
+// views_include('base');
 
 /**
  * Implements hook_views_plugins().
