@@ -3,7 +3,7 @@ description = Create customized lists and queries from your database.
 package = Views
 core = 7.x
 php = 5.2
-version = 7.x-3.7
+version = 7.x-3.11
 
 ; Always available CSS
 stylesheets[all][] = css/views.css
